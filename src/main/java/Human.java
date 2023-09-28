@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Human {
+public interface Human {
+    String speak();
 }
